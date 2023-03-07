@@ -1,0 +1,20 @@
+{
+  "name": "websitecomponents",
+  "version": "1.0.0",
+  "description": "This is the shortcut to create multiple templates of websites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "developement",
+    "online",
+    "editor",
+    "game",
+    "changer",
+    "templates"
+  ],
+  "author": "Sarabjeet Singh",
+  "license": "MIT"
+}
