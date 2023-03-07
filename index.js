@@ -1,6 +1,5 @@
 export default class Webuilder {
     constructor(){
-
     this.fetchRequestAccess = () => {
         const fetchRequest = function () {
             fetch('./data.json')
